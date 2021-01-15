@@ -1,5 +1,7 @@
 package contact;
 
+import contact.model.Contact;
+import contact.repository.ContactRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;
